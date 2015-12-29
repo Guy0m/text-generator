@@ -25,7 +25,7 @@ class main:
 	tendance = 50; #tendance negative a 100, neutre a 50, positive a 0
 	
 	i=1
-	while i<= 15:
+	while i<= 30: #nombre de phrases a generer
 		
 		
 		if choix == 'null':
