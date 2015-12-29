@@ -12,7 +12,7 @@ L’outil permet de générer des corpus de phrases sur la base de différents d
 
 Exemples de résultat : 
 
-  *tu payas son ﻿mauvais pouvoir <br/>
+  *ils ont vendu une superbe cuisine <br/>
   vous aurez ce grand ventre <br/>
   nous intéressons ce beau frère <br/>
   tu jouas la parfaite femme <br/>
