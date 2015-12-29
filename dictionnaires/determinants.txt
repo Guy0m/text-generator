@@ -1,0 +1,30 @@
+le,masculin
+la,feminin
+les,pluriel
+l',voyelle
+un,masculin
+une,feminin
+des,pluriel
+d',voyelle
+du,masculin
+de la,feminin
+de l',voyelle
+ce,masculin
+cet,masculin
+cette,feminin
+ces,pluriel
+mon,masculin
+ton,masculin
+son,masculin
+ma,feminin
+ta,feminin
+sa,feminin
+mes,pluriel
+tes,pluriel
+ses,pluriel
+notre,neutre
+votre,neutre
+leur,masculin
+nos,pluriel
+vos,pluriel
+leurs,pluriel
