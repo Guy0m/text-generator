@@ -1,0 +1,420 @@
+je mange
+tu manges
+il mange
+nous mangeons
+vous mangez
+ils mangent
+j'ai mangé
+tu as mangé
+il a mangé
+nous avons mangé
+vous avez mangé
+ils ont mangé
+je mangeais
+tu mangeais
+il mangeait
+nous mangions
+vous mangiez
+ils mangeaient
+j'avais mangé
+tu avais mangé
+il avait mangé
+nous avions mangé
+vous aviez mangé
+ils avaient mangé
+je mangeai
+tu mangeas
+il mangea
+nous mangeâmes
+vous mangeâtes
+ils mangèrent
+je mangerai
+tu mangeras
+il mangera
+nous mangerons
+vous mangerez
+ils mangeront
+je joue
+tu joues
+il joue
+nous jouons
+vous jouez
+ils jouent
+j'ai joué
+tu as joué
+il a joué
+nous avons joué
+vous avez joué
+ils ont joué
+je jouais
+tu jouais
+il jouait
+nous jouions
+vous jouiez
+ils jouaient
+j'avais joué
+tu avais joué
+il avait joué
+nous avions joué
+vous aviez joué
+ils avaient joué
+je jouai
+tu jouas
+il joua
+nous jouâmes
+vous jouâtes
+ils jouèrent
+je jouerai
+tu joueras
+il jouera
+nous jouerons
+vous jouerez
+ils joueront
+je veux
+tu veux
+il veut
+nous voulons
+vous voulez
+ils veulent
+j'ai voulu
+tu as voulu
+il a voulu
+nous avons voulu
+vous avez voulu
+ils ont voulu
+je voulais
+tu voulais
+il voulait
+nous voulions
+vous vouliez
+ils voulaient
+j'avais voulu
+tu avais voulu
+il avait voulu
+nous avions voulu
+vous aviez voulu
+ils avaient voulu
+je voulus
+tu voulus
+il voulut
+nous voulûmes
+vous voulûtes
+ils voulurent
+je voudrai
+tu voudras
+il voudra
+nous voudrons
+vous voudrez
+ils voudront
+je donne
+tu donnes
+il donne
+nous donnons
+vous donnez
+ils donnent
+j'ai donné
+tu as donné
+il a donné
+nous avons donné
+vous avez donné
+ils ont donné
+je donnais
+tu donnais
+il donnait
+nous donnions
+vous donniez
+ils donnaient
+j'avais donné
+tu avais donné
+il avait donné
+nous avions donné
+vous aviez donné
+ils avaient donné
+je donnai
+tu donnas
+il donna
+nous donnâmes
+vous donnâtes
+ils donnèrent
+je donnerai
+tu donneras
+il donnera
+nous donnerons
+vous donnerez
+ils donneront
+je vends
+tu vends
+il vend
+nous vendons
+vous vendez
+ils vendent
+j'ai vendu
+tu as vendu
+il a vendu
+nous avons vendu
+vous avez vendu
+ils ont vendu
+je vendais
+tu vendais
+il vendait
+nous vendions
+vous vendiez
+ils vendaient
+j'avais vendu
+tu avais vendu
+il avait vendu
+nous avions vendu
+vous aviez vendu
+ils avaient vendu
+je vendis
+tu vendis
+il vendit
+nous vendîmes
+vous vendîtes
+ils vendirent
+je vendrai
+tu vendras
+il vendra
+nous vendrons
+vous vendrez
+ils vendront
+je suis
+tu es
+il est
+nous sommes
+vous êtes
+ils sont
+j'ai été
+tu as été
+il a été
+nous avons été
+vous avez été
+ils ont été
+j'étais
+tu étais
+il était
+nous étions
+vous étiez
+ils étaient
+j'avais été
+tu avais été
+il avait été
+nous avions été
+vous aviez été
+ils avaient été
+je fus
+tu fus
+il fut
+nous fûmes
+vous fûtes
+ils furent
+je serai
+tu seras
+il sera
+nous serons
+vous serez
+ils seront
+je paie
+tu paies
+il paie
+nous payons
+vous payez
+ils paient
+j'ai payé
+tu as payé
+il a payé
+nous avons payé
+vous avez payé
+ils ont payé
+je payais
+tu payais
+il payait
+nous payions
+vous payiez
+ils payaient
+j'avais payé
+tu avais payé
+il avait payé
+nous avions payé
+vous aviez payé
+ils avaient payé
+je payai
+tu payas
+il paya
+nous payâmes
+vous payâtes
+ils payèrent
+je paierai
+tu paieras
+il paiera
+nous paierons
+vous paierez
+ils paieront
+j'ai
+tu as
+il a
+nous avons
+vous avez
+ils ont
+j'ai eu
+tu as eu
+il a eu
+nous avons eu
+vous avez eu
+ils ont eu
+j'avais
+tu avais
+il avait
+nous avions
+vous aviez
+ils avaient
+j'avais eu
+tu avais eu
+il avait eu
+nous avions eu
+vous aviez eu
+ils avaient eu
+j'eus
+tu eus
+il eut
+nous eûmes
+vous eûtes
+ils eurent
+j'aurai
+tu auras
+il aura
+nous aurons
+vous aurez
+ils auront
+je fais
+tu fais
+il fait
+nous faisons
+vous faites
+ils font
+j'ai fait
+tu as fait
+il a fait
+nous avons fait
+vous avez fait
+ils ont fait
+je faisais
+tu faisais
+il faisait
+nous faisions
+vous faisiez
+ils faisaient
+j'avais fait
+tu avais fait
+il avait fait
+nous avions fait
+vous aviez fait
+ils avaient fait
+je fis
+tu fis
+il fit
+nous fîmes
+vous fîtes
+ils firent
+je ferai
+tu feras
+il fera
+nous ferons
+vous ferez
+ils feront
+j'aime
+tu aimes
+il aime
+nous aimons
+vous aimez
+ils aiment
+j'ai aimé
+tu as aimé
+il a aimé
+nous avons aimé
+vous avez aimé
+ils ont aimé
+j'aimais
+tu aimais
+il aimait
+nous aimions
+vous aimiez
+ils aimaient
+j'avais aimé
+tu avais aimé
+il avait aimé
+nous avions aimé
+vous aviez aimé
+ils avaient aimé
+j'aimai
+tu aimas
+il aima
+nous aimâmes
+vous aimâtes
+ils aimèrent
+j'aimerai
+tu aimeras
+il aimera
+nous aimerons
+vous aimerez
+ils aimeront
+j'oublie
+tu oublies
+il oublie
+nous oublions
+vous oubliez
+ils oublient
+j'ai oublié
+tu as oublié
+il a oublié
+nous avons oublié
+vous avez oublié
+ils ont oublié
+j'oubliai
+tu oublias
+il oublia
+nous oubliâmes
+vous oubliâtes
+ils oublièrent
+j'oublierai
+tu oublieras
+il oubliera
+nous oublierons
+vous oublierez
+ils oublieront
+j'intéresse
+tu intéresses
+il intéresse
+nous intéressons
+vous intéressez
+ils intéressent
+j'ai intéressé
+tu as intéressé
+il a intéressé
+nous avons intéressé
+vous avez intéressé
+ils ont intéressé
+j'intéressais
+tu intéressais
+il intéressait
+nous intéressions
+vous intéressiez
+ils intéressaient
+j'avais intéressé
+tu avais intéressé
+il avait intéressé
+nous avions intéressé
+vous aviez intéressé
+ils avaient intéressé
+j'intéressai
+tu intéressas
+il intéressa
+nous intéressâmes
+vous intéressâtes
+ils intéressèrent
+j'intéresserai
+tu intéresseras
+il intéressera
+nous intéresserons
+vous intéresserez
+ils intéresseront
