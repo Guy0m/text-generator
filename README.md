@@ -1,8 +1,8 @@
 # python text-generator 
 **[en cours de developpement, dictionnaires à enrichir]**
-<br/>
+<br/><br/>
  L’outil permet de générer des corpus de phrases sur la base de différents dictionnaires. Il est possible de paramétrer l’outil afin de générer une tendance positive ou négative. L'objectif est de générer des phrases les plus correctes possibles.
-<br/>
+<br/><br/>
 **Les scripts**
 
 - Supprimer les doublons et classer les mots d'un dictionnaire :  **python trier.py fichier.txt**
