@@ -55,6 +55,7 @@ class main:
 		determinant = 'null,null'
 		nom_commun = 'null,null'
 		positif = 'null,null'
+		negatif = 'null,null'
 		
 	resultat = open('resultat.txt', "w")
 	resultat.write('\n'.join(liste_resultat))
