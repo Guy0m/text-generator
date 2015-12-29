@@ -21,9 +21,9 @@ Exemples de résultat :
   nous avons été ce magnifique français <br/>
   nous avions voulu la superbe vérité <br/>
   nous aimons ta moche odeur <br/>
-  vous payâtes son gentil argent <br/>
   je vendis ce moche monde <br/>
   nous mangeons ma accueillante femme <br/>
   il vend son grand jardin <br/>
   il vendra de la superbe manière <br/>
-  il joue cette gentille scène <br/>*
+  il joue cette gentille scène <br/>
+  j'ai aimé une laide femme<br/>*
