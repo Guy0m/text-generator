@@ -15,13 +15,12 @@ Exemples de résultat :
   *ils ont vendu une superbe cuisine <br/>
   vous aurez ce grand ventre <br/>
   nous intéressons ce beau frère <br/>
-  tu jouas la parfaite femme <br/>
-  je voulais le parfait visage <br/>
+  je voulais le parfait visage<br/>
+  vous oubliâtes ma superbe oreille<br/>
   nous avons vendu de la accueillante peau <br/>
   nous avons été ce magnifique français <br/>
   nous avions voulu la superbe vérité <br/>
   nous aimons ta moche odeur <br/>
-  je vendis ce moche monde <br/>
   nous mangeons ma accueillante femme <br/>
   il vend son grand jardin <br/>
   il vendra de la superbe manière <br/>
