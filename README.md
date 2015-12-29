@@ -10,7 +10,7 @@ L’outil permet de générer des corpus de phrases sur la base de différents d
 - Generateur de phrases sujet + verbe + adjectif + nom commun :  **python generer.py**
 
 
-** Et les résultats sont plutôt fun : **
+**Et les résultats sont plutôt fun :**
 
   *ils ont vendu une superbe cuisine <br/>
   vous aurez ce grand ventre <br/>
